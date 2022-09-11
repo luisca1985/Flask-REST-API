@@ -11,3 +11,6 @@
 - [Post-installation steps for Linux](https://docs.docker.com/engine/install/linux-postinstall/)
 - [Docker Python Image](https://hub.docker.com/_/python)
 - [Docker Compose with Flask Apps](https://runnable.com/docker/python/docker-compose-with-flask-apps)
+
+## References
+- [Python REST APIs With Flask, Connexion, and SQLAlchemy](https://realpython.com/flask-connexion-rest-api/)
