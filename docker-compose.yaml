@@ -1,6 +1,6 @@
 version: '2'
 services:
-  web:
+  rest_api:
     build: .
     ports:
       - '5000:5000'
