@@ -1,3 +1,4 @@
 mypy
 autopep8
 flask
+connexion[swagger-ui]
